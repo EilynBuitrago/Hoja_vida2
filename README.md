@@ -7,6 +7,7 @@ Para desarrollar la hoja de vida se implementaron diferentes tipos de informaci�
 Adicional se implementaron diferentes videos para la implementación de los diversos temas que se presentan:
 - Hacer un curriculum con html y bootstrap https://youtu.be/2HRR2-w1aIs
 - Aprende CSS en 15 Minutos https://youtu.be/3yM5uXp-T_0
+
 En este caso se implemento el editor Visual Studio Code para el desarrollo y implementación del curriculum.
 Aca les dejo el enlace para observar el funcionamiento del framework, adicional les dejo varios videos para la instalación del editor y como se puede configurar con github y git bash para realizar commit y push en la rama (master) desde el editor de texto de su preferencia.
 - Download Visual Studio Code https://code.visualstudio.com/download
