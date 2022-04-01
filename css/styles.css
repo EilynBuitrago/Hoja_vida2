@@ -15,7 +15,7 @@
   --bs-indigo: #6610f2;
   --bs-purple: #6f42c1;
   --bs-pink: #da2b82;
-  --bs-red: #060606;
+  --bs-red: #dc3545;
   --bs-pink: #eb18af;
   --bs-yellow: #ffc107;
   --bs-green: #198754;
@@ -38,7 +38,7 @@
   --bs-success: #198754;
   --bs-info: #0dcaf0;
   --bs-warning: #ffc107;
-  --bs-danger: #dc3545;
+  --bs-danger: #ee1999;
   --bs-light: #f8f9fa;
   --bs-dark: #212529;
   --bs-primary-rgb: 189, 93, 56;
@@ -241,7 +241,7 @@ a {
   text-decoration: underline;
 }
 a:hover {
-  color: #e80d9b;
+  color: #f019b6;
 }
 
 a:not([href]):not([class]), a:not([href]):not([class]):hover {
